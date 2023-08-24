@@ -14,5 +14,5 @@ Abaixo, todos os projetos para **Fast-Api**:
 - **Projeto Api-> App Animal**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/appanimal) |
 
 ### Projetos Intermédiarios
-- **Projeto Api-(olx) -> App BLX**;  :file_folder: [[**Conteúdo**]]() |
+- **Projeto Api-(olx) -> App BLX**;  :file_folder: [[**Conteúdo**]](https://github.com/helsonmatos/appblx) |
 - **Projeto Api-(series) -> App Myflix**;  :file_folder: [[**Conteúdo**]]() |
